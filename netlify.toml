@@ -1,5 +1,5 @@
 [build]
-  publish = "layouts"
+  publish = "public"
   functions = "functions"
 
 [build.environment]
